@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Jiyun Baek
     tagline: Student
-    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: high-quality-wallpaper-10 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jiyunjiyun925@gmail.com
@@ -73,8 +73,8 @@ experiences:
         time: 2023.3 - 2023.6
         company: PERS Lab/PKNU
         details: |
-            main drone: DJI phantom 4 multislectral
-            sub: DJI mavic 3 multislectral, inspire, DJI mavic 3 E, DJI phatom 3
+            - main drone: DJI phantom 4 multislectral
+            - sub: DJI mavic 3 multislectral, inspire, DJI mavic 3 E, DJI phatom 3
 
       - role: Digital Illustrator
         time: 2022 - ing
