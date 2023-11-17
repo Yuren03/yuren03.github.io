@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Jiyun Baek
     tagline: Student
-    avatar: /assets/images/high-quality-wallpaper-10 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: /assets/images/high-quality-wallpaper-10.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jiyunjiyun925@gmail.com
@@ -76,12 +76,11 @@ experiences:
             - main drone: DJI phantom 4 multislectral
             - sub: DJI mavic 3 multislectral, inspire, DJI mavic 3 E, DJI phatom 3
 
-      - role: Digital Illustrator
+      - role: Figma Illustrator
         time: 2022 - ing
         company: X(twitter), Insagram
         details: |
-          main tool - Figma
-          vist my SNS!
+          vist my SNS:
             - Twiter: @plate_illus
             - Instagram: glassplate_ 
             
